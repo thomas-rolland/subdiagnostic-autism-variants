@@ -1,4 +1,4 @@
-# subdiagnosis-autism-variants
+# subdiagnostic-autism-variants
 
 You will find here the python scripts developped for the post-processing analyses reported in the "Sub-diagnostic effects of genetic variants associated with autism" manuscript.
 
